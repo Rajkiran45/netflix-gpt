@@ -1,7 +1,8 @@
 # Netflix GPT
-# Setup :->
+# Setup
 - First we created create-react-app 
 - Configured npm install TailwindCSS and added  to index.css file to declare globally
+- create folder structure components and utils 
 
 # Features
 # Netflix Gpt main function
