@@ -3,6 +3,17 @@
 - First we created create-react-app 
 - Configured npm install TailwindCSS and added  to index.css file to declare globally
 - create folder structure components and utils 
+- added routing
+- SignIn form / SignUp form
+- useRef Hook
+- Firebase setup
+- validate RegeX 
+- Deploy app to Production
+- Create SignUp in Firebase Account
+- Implement SignIn user API 
+- Created Redux Store with userSlice
+
+
 
 # Features
 # Netflix Gpt main function
